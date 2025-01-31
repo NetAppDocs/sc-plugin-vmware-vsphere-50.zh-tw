@@ -2051,7 +2051,6 @@
   <block id="5a2083853297d8e177a0fe4d54c85aad" category="paragraph">此工作可協助您變更預設稽核記錄設定。</block>
   <block id="bf59ac9161d0f4561a155103d8ea2d10" category="list-text">在 * 稽核記錄檔設定 * 窗格中、輸入稽核記錄檔的最大數量和稽核記錄檔大小限制。</block>
   <block id="f1505fcf11606ca7535d26bceed3763b" category="sidebar">VMware vSphere（選擇控制器）的VMware外掛程式是Linux型虛擬應用裝置。SnapCenter獨立式環境可為VM、資料存放區及VMDK提供快速、節省空間、損毀一致且VM一致的備份與還原作業。它也能搭配SnapCenter 使用支援應用程式型的VMware環境備份與還原作業、以利SnapCenter 執行應用程式專屬的外掛程式。本文件庫說明適用於 VMware vSphere 5.0 版的 SnapCenter 外掛程式。</block>
-  <block id="8c3d0c00ea667e3e0723e5cdc6473a09" category="sidebar">VMware vSphere文件的VMware外掛程式SnapCenter</block>
   <block id="35b654fd14f12a33551c1993b5321fcb" category="sidebar">VMware vSphere（選擇控制器）的VMware外掛程式是Linux型虛擬應用裝置。SnapCenter獨立式環境可為VM、資料存放區及VMDK提供快速、節省空間、損毀一致且VM一致的備份與還原作業。它也能搭配SnapCenter 使用支援應用程式型的VMware環境備份與還原作業、以利SnapCenter 執行應用程式專屬的外掛程式。</block>
   <block id="be11c74c1dd7f307bb80183a90dc2067" category="sidebar">開始使用</block>
   <block id="5dd03e8d039863e563e049be198c3fd3" category="sidebar">版本資訊</block>
@@ -2096,4 +2095,5 @@
   <block id="a3d53cfe9124531cb5f9bbfefe704326" category="sidebar">REST API工作流程可修改內建排程</block>
   <block id="3da6944b1baaec4beb70694ac307fd1f" category="sidebar">升級至同一版本的新修補程式</block>
   <block id="b02541bab3f320c7517f41f638f6ef31" category="paragraph"><block ref="6f48ea8f284b5f5f2ad46612a3e37eec" category="inline-link-macro-rx"></block>。</block>
+  <block id="e2baf69e920d271345d54408c922dc4e" category="sidebar">適用於 VMware vSphere 5.0 的 SnapCenter 外掛程式文件</block>
 </blocks>

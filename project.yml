@@ -1,6 +1,6 @@
 ---
 settings:
-  name: SnapCenter Plug-in for VMware vSphere 5.0
+  name: SnapCenter Plug-in for VMware vSphere
   downlevel: true
   internal:
     pdf_enabled: true
@@ -10,8 +10,10 @@ settings:
   versions:
   - version-number: '5.0'
     url: "/sc-plugin-vmware-vsphere-50"
-  - version-number: '6.0'
+  - version-number: '6.1'
     url: "/sc-plugin-vmware-vsphere"
+  - version-number: '6.0'
+    url: "/sc-plugin-vmware-vsphere-60"
   - version-number: '4.9'
     url: "/sc-plugin-vmware-vsphere-49"
   - version-number: '4.8'

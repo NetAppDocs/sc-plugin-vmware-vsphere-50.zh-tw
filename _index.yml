@@ -1,6 +1,6 @@
 ---
 indexpage:
-  title: VMware vSphere文件的VMware外掛程式SnapCenter
+  title: 適用於 VMware vSphere 5.0 的 SnapCenter 外掛程式文件
   summary: VMware vSphere（選擇控制器）的VMware外掛程式是Linux型虛擬應用裝置。SnapCenter獨立式環境可為VM、資料存放區及VMDK提供快速、節省空間、損毀一致且VM一致的備份與還原作業。它也能搭配SnapCenter
     使用支援應用程式型的VMware環境備份與還原作業、以利SnapCenter 執行應用程式專屬的外掛程式。
   keywords: SnapCenter Plug-in for VMware vSphere, SCV
